@@ -9,6 +9,16 @@ Bringing Artificial Intelligence to monitor water quality and save lives.
 - Matheus Moraes
 - Pedro Ivo
 
+## Contents
+
+1. [Overview](#overview)
+2. [The idea](#the-idea)
+
+
+## Diagrams
+
+![Cooperation architecture diagram](/images/architecture.JPG)
+
 ## Description:
 Um bilhão e 800 milhões de pessoas não contam com serviços de saneamento básico, com isso dez milhões de pessoas, sendo na maioria delas crianças, morrem anualmente pela falta de água potável. Um grande problema que vem assolando a humanidade, principalmente a população mais carente, onde a única fonte de água para consumo são rios que acabam sendo contaminados sem que as pessoas tenham conhecimento.
 Atualmente, analisar a qualidade da água não é uma tarefa fácil. É necessário que os pesquisadores se desloquem até a região para coletar amostras e levar até o laboratório, trazendo grandes custos e dificultando o alerta para a população. 
@@ -19,7 +29,7 @@ As autoridades responsáveis também serão, imediatamente, alertadas, para toma
 
 ## architecture
 <p align="center">
-<img src="./images/architecture.JPG" width="45%" title="Costco Lines April 2020">
+<img src="./images/architecture.JPG" title="architecture">
 </p>
 
 ## License
