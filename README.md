@@ -30,6 +30,11 @@ As autoridades responsáveis também serão, imediatamente, alertadas, para toma
 
 ![Cooperation architecture diagram](/images/architecture.JPG)
 
+## Resources
+
+- [IBM Cloud](https://www.ibm.com/cloud)
+- [Watson Studio](https://www.ibm.com/cloud/watson-studio)
+
 
 ## Solution developed by:
 * [Eduardo Ritter](https://github.com/EduardoMoraesRitter)
