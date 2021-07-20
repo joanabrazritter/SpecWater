@@ -6,7 +6,7 @@ Bringing Artificial Intelligence to monitor water quality and save lives.
 * [Eduardo Ritter](https://github.com/EduardoMoraesRitter)
 - Joana Ritter
 - Joel Pacheco
-- Matheus Moraes
+* [Matheus Moraes](https://github.com/mtsvi-moraes)
 - Pedro Ivo
 
 ## Contents
