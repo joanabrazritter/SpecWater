@@ -16,7 +16,7 @@ The responsible authorities will also be immediately alerted to take action and 
 
 1. [Overview](#overview)
 2. [Architecture](#Architecture)
-3. [Solution developed by](#Solution developed by)
+3. [Solution developed by][#Solution developed by]
 4. [License](#license)
 
 ## Architecture
