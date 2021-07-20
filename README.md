@@ -25,6 +25,9 @@ The responsible authorities will also be immediately alerted to take action and 
 
 ## RoadMap
 
+* Fase alfa foi desenvolvido em maio e junho, os não tinhamos ideai ainda que o projeto era possivel, entao desenvolvemos de forma rudimentar para teste uma hipotese;
+* Fase beta dado o sucesso que tivemos com aplicação evoluimos o projeto de maneira que pode ser aplicado em mundo real e criamos um MVP minimo produto viavel;
+
 ![Cooperation architecture diagram](/images/roudmap.jpg)
 
 ## Architecture
@@ -39,12 +42,19 @@ The responsible authorities will also be immediately alerted to take action and 
 1. O website consome as informações e colocas as informações em um mapa;
 1. A população pode acessar o site verificaram a qualidade da água que consome em tempo real;
 
-![Cooperation architecture diagram](/images/architecture.JPG)
+![Cooperation architecture diagram](/images/architecture.jpg)
 
 
 ## Development
 
-![Cooperation architecture diagram](/images/architecture.JPG)
+Criação de uma coletor feito em arduino para teste de um espectrofotometria:
+![Cooperation architecture diagram](/images/arduino_project.jpg)
+
+Analise de dados, de amostra de agua potavel e agua contaminada:
+![Cooperation architecture diagram](/images/arduino_project.jpg)
+
+Tratamento dos dados e criação de um modelo de machine learning:
+![Cooperation architecture diagram](/images/arduino_project.jpg)
 
 ## Resources
 
