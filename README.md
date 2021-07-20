@@ -27,7 +27,7 @@ Bringing Artificial Intelligence to monitor water quality and save lives.
 * Fase alfa foi desenvolvido em maio e junho, os não tinhamos ideai ainda que o projeto era possivel, entao desenvolvemos de forma rudimentar para teste uma hipotese;
 * Fase beta dado o sucesso que tivemos com aplicação evoluimos o projeto de maneira que pode ser aplicado em mundo real e criamos um MVP minimo produto viavel;
 
-![Cooperation architecture diagram](/images/roudmap.jpg)
+![RoadMap](/images/roudmap.jpg)
 
 ## Architecture
 
@@ -41,7 +41,7 @@ Bringing Artificial Intelligence to monitor water quality and save lives.
 1. O website consome as informações e colocas as informações em um mapa;
 1. A população pode acessar o site verificaram a qualidade da água que consome em tempo real;
 
-![Cooperation architecture diagram](/images/architecture.jpg)
+![Cooperation architecture](/images/architecture.jpg)
 
 
 ## Development
