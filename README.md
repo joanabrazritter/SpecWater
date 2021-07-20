@@ -16,7 +16,7 @@ The responsible authorities will also be immediately alerted to take action and 
 
 1. [Overview](#overview)
 2. [Architecture](#Architecture)
-3. [Solution developed by:](#Solution developed by:)
+3. [Solution developed by](#Solution developed by)
 4. [License](#license)
 
 ## Architecture
@@ -37,7 +37,7 @@ The responsible authorities will also be immediately alerted to take action and 
 - [Watson Studio](https://www.ibm.com/cloud/watson-studio)
 - [Watson IoT Cloud](https://www.ibm.com/cloud/internet-of-things)
 
-## Solution developed by:
+## Solution developed by
 * [Eduardo Ritter](https://github.com/EduardoMoraesRitter), Senior Software Engineer
 - Joana Ritter
 - Joel Pacheco
