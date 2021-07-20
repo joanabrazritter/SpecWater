@@ -25,7 +25,7 @@ The responsible authorities will also be immediately alerted to take action and 
 
 ## RoadMap
 
-![Cooperation architecture diagram](/images/roudmap.PNG)
+![Cooperation architecture diagram](/images/roudmap.JPG)
 
 ## Desenvolvimento
 
