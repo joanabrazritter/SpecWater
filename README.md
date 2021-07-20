@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Community](https://img.shields.io/badge/Join-Community-blue.svg)](https://developer.ibm.com/callforcode/solutions/projects/get-started/)
+
 # SpecWater - Call for Code
 
 Bringing Artificial Intelligence to monitor water quality and save lives.
@@ -14,11 +16,11 @@ As autoridades responsáveis também serão, imediatamente, alertadas, para toma
 ## Contents
 
 1. [Overview](#overview)
-2. [The idea](#the-idea)
+2. [Architecture](#Architecture)
 3. [Solution developed by](#Solution developed by)
 4. [License](#license)
 
-## Diagrams
+## Architecture
 
 ![Cooperation architecture diagram](/images/architecture.JPG)
 
@@ -34,14 +36,18 @@ As autoridades responsáveis também serão, imediatamente, alertadas, para toma
 
 - [IBM Cloud](https://www.ibm.com/cloud)
 - [Watson Studio](https://www.ibm.com/cloud/watson-studio)
-
+- [Watson IoT Cloud](https://www.ibm.com/cloud/internet-of-things)
 
 ## Solution developed by:
-* [Eduardo Ritter](https://github.com/EduardoMoraesRitter)
+* [Eduardo Ritter](https://github.com/EduardoMoraesRitter), Senior Software Engineer
 - Joana Ritter
 - Joel Pacheco
 * [Matheus Moraes](https://github.com/mtsvi-moraes)
 - Pedro Ivo
+
+<p>
+  <img src="https://contributors-img.web.app/image?repo=EduardoMoraesRitter/SpecWater" />
+</p>
 
 ## License
 
